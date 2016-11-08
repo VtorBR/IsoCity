@@ -3,7 +3,7 @@ var blocks = [
     name : "Template",
     row : 0,
     column : 1,
-    url : "http://www.vtor.me",
+    url : "https://github.com/VtorBR/IsoCity",
     src : "images/blocks/template.png"
   }
 ];
